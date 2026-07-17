@@ -24,6 +24,8 @@ Front-End Developer • AI & Data Science Student
 
 - HTML5
 - CSS3
+- Python
+- SQL
 - JavaScript
 - Bootstrap
 - Git
